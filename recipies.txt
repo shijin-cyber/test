@@ -6,3 +6,6 @@ welcome to the kitchen
 kheer
 pasthai
 chicken fry
+
+beans
+pizza
